@@ -28,7 +28,7 @@ I specialize in building modular, scalable, and immersive architectures that sol
 ### 🛠️ Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,github,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,github,figma,nextjs,supabase,gcp&theme=dark" />
 </p>
 
 <details open>
@@ -37,12 +37,11 @@ I specialize in building modular, scalable, and immersive architectures that sol
   <br/>
   
   - **XR & Game Engines** - Unity, XR Interaction Toolkit, OpenXR, Oculus SDK, MRTK
+  - **Backend & Cloud Architecture** - Supabase, Convex, Google Cloud Platform (GCP)
   - **Networking** - Photon (PUN/Fusion), Mirror, Normcore
   - **Programming** - C#, HLSL (Shaders), Modular Architecture
   - **Design & Web** - UI/UX Design, Framer, Next.js, Google Sheets (Macros/Tracking)
 </details>
-
-<br/>
 
 ### 📈 Metrics
 
