@@ -28,7 +28,7 @@ I specialize in building modular, scalable, and immersive architectures that sol
 ### 🛠️ Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,github,figma,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,github,nextjs&theme=dark" />
 </p>
 
 <details open>
