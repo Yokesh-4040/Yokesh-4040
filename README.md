@@ -47,15 +47,13 @@ I specialize in building modular, scalable, and immersive architectures that sol
 ### 📈 Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yokesh-4040&show_icons=true&theme=react&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc&border_color=2ea043&hide_border=true" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yokesh-4040&layout=compact&theme=react&bg_color=0D1117&title_color=00ffcc&text_color=c9d1d9&hide_border=true" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yokesh-4040&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yokesh-4040&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yokesh-4040&bg_color=0D1117&color=00ffcc&line=2ea043&point=00ffcc&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yokesh-4040&theme=tokyonight&hide_border=true" alt="Streak Stats" width="98%" />
 </div>
-
-<br/>
 
 ### ⚡ Beyond the Screen
 
