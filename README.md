@@ -46,11 +46,6 @@ I specialize in building modular, scalable, and immersive architectures that sol
 
 ### 📈 Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yokesh-4040&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yokesh-4040&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
-</p>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yokesh-4040&theme=tokyonight&hide_border=true" alt="Streak Stats" width="98%" />
 </div>
